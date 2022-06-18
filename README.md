@@ -1,0 +1,1 @@
+This is a little cool spiritual themed landing page I made. Enjoy!
