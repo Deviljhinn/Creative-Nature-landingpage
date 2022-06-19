@@ -135,6 +135,10 @@ label{
 
 /* Responsive styles */
 
+cursor{
+    cursor: crosshair;
+}
+
 @media (max-width: 960px){
     header .navigation{
         display: none;
