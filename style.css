@@ -33,7 +33,7 @@ header {
 
 header .logo {
   position: relative;
-  color: #b7f0f5;
+  color: #eff375;
   font-size: 30px;
   text-decoration: none;
   text-transform: uppercase;
@@ -44,7 +44,7 @@ header .logo {
 header .navigation a {
   padding: 50px 0;
   min-width: 500px; 
-  color: #FFFFFF;
+  color: #418ee1;
   text-decoration: none;
   font-weight: 500;
   letter-spacing: 1px;
@@ -58,7 +58,7 @@ header .navigation a {
   rgba(255, 255, 255, 0.2) 75%, 
   rgba(255, 255, 255, 0) 100%);
  box-shadow: 0 0 25px rgba(0, 0, 0, 0.1),
-  inset 0 0 1px rgba(255, 255, 255, 0.6);
+  inset 0 0 1px rgba(184, 229, 237, 0.6);
 }
 
 header.navigation a:not(:last-child) {
@@ -85,13 +85,13 @@ header .navigation a:hover {
 }
 
 .content .info h2 span {
-  color: #c0b6c2;
+  color: #e7c7ee;
   font-size: 50px;
   font-weight: 600;
 }
 
 .content .info p {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 500;
   margin-bottom: 40px;
 }
@@ -110,14 +110,14 @@ header .navigation a:hover {
 }
 
 .content .content.info-btn:hover {
-  background: #0c4f60;
+  background: #c5ecf6;
 }
 
 .media-icons{
   flex-direction: row-reverse;
   justify-content: center;
   align-items: flex-end;
-  margin: auto;
+  margin: auto;ß
 }
 
 .media-icons a{
@@ -227,3 +227,15 @@ header .logo{
     font-size: 14px;
 }
 
+
+
+.ghost {
+  display: flex;
+  float: right;
+  align-items: right;
+}
+
+.ghost img {
+  align-items: right;
+  width: 12.50rem;
+} 
